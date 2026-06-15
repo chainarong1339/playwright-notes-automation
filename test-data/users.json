@@ -1,0 +1,10 @@
+{
+  "standardUser": {
+    "username": "practice",
+    "password": "SuperSecretPassword!"
+  },
+  "invalidUser": {
+    "username": "wrong_user",
+    "password": "wrong_pass"
+  }
+}
