@@ -1,5 +1,7 @@
 # Playwright Notes Automation
 
+![Playwright Tests](https://github.com/chainarong1339/playwright-notes-automation/actions/workflows/playwright.yml/badge.svg)
+
 โปรเจกต์ทดสอบอัตโนมัติ (Test Automation) ด้วย **Playwright + TypeScript** ทดสอบเว็บแอป [Notes App ของ expandtesting](https://practice.expandtesting.com/notes/app) ครอบคลุมทั้ง **API, UI และ Integration** พร้อมการจัดการ session และ flaky test
 
 โปรเจกต์นี้เน้นการ**ตัดสินใจเชิงทดสอบ** (test strategy) ไม่ใช่แค่เขียนเทสให้ผ่าน เช่น เลือก layer ที่เหมาะกับแต่ละเคส จัดการ authentication อย่างมีประสิทธิภาพ และทำให้เทสเสถียร
